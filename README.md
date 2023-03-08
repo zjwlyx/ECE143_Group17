@@ -26,4 +26,4 @@ pip install seaborn
 ```
 
 ## References
-1. [Ourworldindata.org](https://ourworldindata.org/government-spending#government-spending-is-an-important-instrument-to-reduce-inequality)
+[1]. [Ourworldindata.org](https://ourworldindata.org/government-spending#government-spending-is-an-important-instrument-to-reduce-inequality)
