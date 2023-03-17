@@ -25,5 +25,9 @@ pip install matplotlib
 pip install seaborn
 ```
 
+## Infra Code Disclaimer 
+
+When running the infrastructure setting, if one gets an error of [2021] not present, please run the data loading cell only again and run the cell where the error was 
+there. The error should go this time.
 ## References
 [1]. [Ourworldindata.org](https://ourworldindata.org/government-spending#government-spending-is-an-important-instrument-to-reduce-inequality)
