@@ -23,6 +23,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install
 pip install pandas
 pip install matplotlib
 pip install seaborn
+pip install geopandas
 ```
 
 ## Infra Code Disclaimer 
