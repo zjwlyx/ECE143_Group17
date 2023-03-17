@@ -28,7 +28,7 @@ pip install geopandas
 
 ## Main File 
 
-The main file is Group_17_project.ipynb . Please run all the cells to generate plots. some plots may be missing because of plotly issues. 
+The main file is src/Group_17_project.ipynb . Please run all the cells to generate plots. some plots may be missing because of plotly issues. 
 
 ## Infra Code Disclaimer 
 
