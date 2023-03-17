@@ -26,6 +26,10 @@ pip install seaborn
 pip install geopandas
 ```
 
+## Main File 
+
+The main file is Group_17_project.ipynb . Please run all the cells to generate plots. some plots may be missing because of plotly issues. 
+
 ## Infra Code Disclaimer 
 
 When running the infrastructure setting, if one gets an error of [2021] not present, please run the data loading cell only again and run the cell where the error was 
