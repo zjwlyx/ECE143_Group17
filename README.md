@@ -43,7 +43,7 @@ The main file is src/Group_17_project.ipynb . Please run all the cells to genera
     │
     ├── *.py, *.ipynb            <- Individual EDA on different topics within our presentation
     │
-		└── Group_17_Project.ipynb   	   <- File containing functions used in visualizations.ipynb.
+		└── Group_17_Project_updated.ipynb   	   <- File containing functions used in visualizations.ipynb.
 ```
 ## Infra Code Disclaimer 
 
